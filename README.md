@@ -1,8 +1,5 @@
 # Sales & Revenue Performance Analysis — Olist (Kaggle)
 
-This is a recruiter-friendly, end-to-end analytics project using the **Brazilian E-Commerce Public Dataset by Olist**.
-It demonstrates realistic analyst work: **data modeling**, **clean KPI definitions**, **SQL analysis**, and **report-ready outputs**.
-
 ## What this project answers
 1. **Revenue trend:** How does revenue change month-to-month?
 2. **Growth drivers:** Which categories and states contribute most to revenue?
